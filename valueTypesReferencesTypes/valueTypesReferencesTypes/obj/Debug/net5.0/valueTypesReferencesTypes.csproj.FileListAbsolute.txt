@@ -1,0 +1,16 @@
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\bin\Debug\net5.0\valueTypesReferencesTypes.exe
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\bin\Debug\net5.0\valueTypesReferencesTypes.deps.json
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\bin\Debug\net5.0\valueTypesReferencesTypes.runtimeconfig.json
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\bin\Debug\net5.0\valueTypesReferencesTypes.runtimeconfig.dev.json
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\bin\Debug\net5.0\valueTypesReferencesTypes.dll
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\bin\Debug\net5.0\ref\valueTypesReferencesTypes.dll
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\bin\Debug\net5.0\valueTypesReferencesTypes.pdb
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\obj\Debug\net5.0\valueTypesReferencesTypes.csprojAssemblyReference.cache
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\obj\Debug\net5.0\valueTypesReferencesTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\obj\Debug\net5.0\valueTypesReferencesTypes.AssemblyInfoInputs.cache
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\obj\Debug\net5.0\valueTypesReferencesTypes.AssemblyInfo.cs
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\obj\Debug\net5.0\valueTypesReferencesTypes.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\obj\Debug\net5.0\valueTypesReferencesTypes.dll
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\obj\Debug\net5.0\ref\valueTypesReferencesTypes.dll
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\obj\Debug\net5.0\valueTypesReferencesTypes.pdb
+C:\Users\natal\source\repos\valueTypesReferencesTypes\valueTypesReferencesTypes\obj\Debug\net5.0\valueTypesReferencesTypes.genruntimeconfig.cache
