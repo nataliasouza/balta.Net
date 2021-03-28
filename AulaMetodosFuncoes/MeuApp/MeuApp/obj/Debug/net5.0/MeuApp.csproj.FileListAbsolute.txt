@@ -1,0 +1,16 @@
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\bin\Debug\net5.0\MeuApp.exe
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\bin\Debug\net5.0\MeuApp.deps.json
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\bin\Debug\net5.0\MeuApp.runtimeconfig.json
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\bin\Debug\net5.0\MeuApp.runtimeconfig.dev.json
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\bin\Debug\net5.0\MeuApp.dll
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\bin\Debug\net5.0\ref\MeuApp.dll
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\bin\Debug\net5.0\MeuApp.pdb
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\obj\Debug\net5.0\MeuApp.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\obj\Debug\net5.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\obj\Debug\net5.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\obj\Debug\net5.0\MeuApp.AssemblyInfo.cs
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\obj\Debug\net5.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\obj\Debug\net5.0\MeuApp.dll
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\obj\Debug\net5.0\ref\MeuApp.dll
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\obj\Debug\net5.0\MeuApp.pdb
+C:\Users\natal\Desktop\balta.io\MeuApp\MeuApp\obj\Debug\net5.0\MeuApp.genruntimeconfig.cache
