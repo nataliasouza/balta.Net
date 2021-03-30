@@ -1,0 +1,16 @@
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaStruct.exe
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaStruct.deps.json
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaStruct.runtimeconfig.json
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaStruct.runtimeconfig.dev.json
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaStruct.dll
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\bin\Debug\net5.0\ref\aulaStruct.dll
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaStruct.pdb
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaStruct.csprojAssemblyReference.cache
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaStruct.AssemblyInfoInputs.cache
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaStruct.AssemblyInfo.cs
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaStruct.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaStruct.dll
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\obj\Debug\net5.0\ref\aulaStruct.dll
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaStruct.pdb
+C:\Users\natal\source\repos\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaStruct.genruntimeconfig.cache
