@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aulaEnum", "aulaStruct\aulaEnum.csproj", "{1DEB6723-1C2A-459A-9FFF-614E84EFEEE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aulaEnum", "aulaEnum.csproj", "{798C7612-2D82-4064-A435-DF55CF943D64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1DEB6723-1C2A-459A-9FFF-614E84EFEEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DEB6723-1C2A-459A-9FFF-614E84EFEEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DEB6723-1C2A-459A-9FFF-614E84EFEEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DEB6723-1C2A-459A-9FFF-614E84EFEEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798C7612-2D82-4064-A435-DF55CF943D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798C7612-2D82-4064-A435-DF55CF943D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798C7612-2D82-4064-A435-DF55CF943D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798C7612-2D82-4064-A435-DF55CF943D64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3EBD597F-AD45-4332-9E81-027D5F47F5B4}
+		SolutionGuid = {6C6E0A7A-CF62-4256-BBCC-B3002D9AD93F}
 	EndGlobalSection
 EndGlobal

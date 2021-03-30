@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natal\\Desktop\\balta.io\\aulaStruct\\aulaEnum\\aulaEnum.csproj",
+      "projectUniqueName": "C:\\Users\\natal\\Desktop\\balta.io\\aulaEnum\\aulaEnum\\aulaEnum.csproj",
       "projectName": "aulaEnum",
-      "projectPath": "C:\\Users\\natal\\Desktop\\balta.io\\aulaStruct\\aulaEnum\\aulaEnum.csproj",
+      "projectPath": "C:\\Users\\natal\\Desktop\\balta.io\\aulaEnum\\aulaEnum\\aulaEnum.csproj",
       "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natal\\Desktop\\balta.io\\aulaStruct\\aulaEnum\\obj\\",
+      "outputPath": "C:\\Users\\natal\\Desktop\\balta.io\\aulaEnum\\aulaEnum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config",
