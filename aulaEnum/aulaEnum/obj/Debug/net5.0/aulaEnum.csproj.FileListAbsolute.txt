@@ -1,0 +1,16 @@
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaEnum.exe
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaEnum.deps.json
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaEnum.runtimeconfig.json
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaEnum.runtimeconfig.dev.json
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaEnum.dll
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\bin\Debug\net5.0\ref\aulaEnum.dll
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\bin\Debug\net5.0\aulaEnum.pdb
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaEnum.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaEnum.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaEnum.AssemblyInfo.cs
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaEnum.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaEnum.dll
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\obj\Debug\net5.0\ref\aulaEnum.dll
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaEnum.pdb
+C:\Users\natal\Desktop\balta.io\aulaStruct\aulaStruct\obj\Debug\net5.0\aulaEnum.genruntimeconfig.cache
