@@ -30,23 +30,38 @@ namespace TextEditor
                     break;
 
                 case 2:
-                    Create();
+                    Edit();
                     break;
 
                 default:
                     Menu();
                     break;
             }
+        }
 
-            static void Open()
+        static void Open()
+        {
+
+        }
+
+        static void Edit()
+        {
+            Console.Clear();
+            Console.WriteLine("Digite seu texto abaixo | Aperte ESC Para sair");
+            Console.WriteLine("------------------------------------------------");
+            string text = "";
+
+            //para armazenar o texto
+            do
             {
-
+                text += Console.ReadLine();
+                text += Environment.NewLine;
             }
 
-            static void Create()
-            {
+            //para sair da edição do texto, aperte ESC
+            while (Console.ReadKey().Key != ConsoleKey.Escape);
 
-            }
+            Console.Write(text);
         }
     }
 }
