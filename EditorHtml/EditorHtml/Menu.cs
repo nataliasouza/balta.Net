@@ -18,7 +18,7 @@ namespace EditorHtml
         }
         public static void DrawScreen()
         {
-            DesenhaMenu();
+            DrawMenu();
 
             for (int lines = 0; lines <=10; lines++)
             {
@@ -30,10 +30,10 @@ namespace EditorHtml
                 Console.Write("\n");
             }
 
-            DesenhaMenu();
+            DrawMenu();
         }
 
-        public static void DesenhaMenu()
+        public static void DrawMenu()
         {
             Console.Write("+");
             for (int i = 0; i <= 30; i++)
@@ -65,7 +65,7 @@ namespace EditorHtml
         {
             switch (option)
             {
-                case 1: Console.WriteLine("Editor");
+                case 1: Editor.Show();
                     break;
 
                 case 2: Console.WriteLine("View");
