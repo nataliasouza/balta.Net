@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PraticaPOO_Balta.ContentContext
 {
-    public class Module
+    public class Module : BaseContent
     {
         public Module()
         {

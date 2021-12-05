@@ -6,10 +6,15 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace PraticaPOO_Balta.ContentContext
-{
-    public class Article : Content
+{   
+    public abstract class BaseContent : Notifiable
     {
-        public Article(string title, string url)
-            : base(title, url){ }
+        public Guid Id { get; set; }
+
+        public BaseContent()
+        {
+            Id = Guid.NewGuid();
+        }
+        
     }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PraticaPOO_Balta.ContentContext
 {
-    public class Lecture
+    public class Lecture : BaseContent
     {
         public int Order { get; set; }
         public string Title { get; set; }
