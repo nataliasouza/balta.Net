@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using PraticaPOO_Balta.NotificationContext;
+using PraticaPOO_Balta.SharedContext;
 
 namespace PraticaPOO_Balta.ContentContext
-{    
+{
     public class CareerItem : BaseContent
     {
         public CareerItem(int order, 
@@ -14,7 +11,7 @@ namespace PraticaPOO_Balta.ContentContext
             Course course)
         {
             if (course == null)
-                throw new System.Exception("O curso não pode ser nulo");
+                AddNotification(new Notification("Course", "Curso Inválido"));
 
             Order = order;
             Title = title;

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PraticaPOO_Balta.NotificationContext
+﻿namespace PraticaPOO_Balta.NotificationContext
 {
     public sealed class Notification
     {

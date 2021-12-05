@@ -1,8 +1,5 @@
-﻿using System;
+﻿using PraticaPOO_Balta.SharedContext;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PraticaPOO_Balta.ContentContext
 {

@@ -1,9 +1,5 @@
 ﻿using PraticaPOO_Balta.ContentContext.Enums;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using PraticaPOO_Balta.SharedContext;
 
 namespace PraticaPOO_Balta.ContentContext
 {
