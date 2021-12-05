@@ -1,4 +1,5 @@
 ﻿using PraticaPOO_Balta.ContentContext;
+using PraticaPOO_Balta.SubscriptionContext;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -59,8 +60,10 @@ namespace PraticaPOO_Balta
                         Console.WriteLine($"{notification.Property} - {notification.Message}");
                     }                   
                 }
+                var payPalSubscription = new PayPalSubscription();
+                var student = new Student();
+                student.CreateSubscription(payPalSubscription);
             }
-
         }
     }
 }
